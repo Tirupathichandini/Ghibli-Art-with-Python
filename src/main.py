@@ -18,4 +18,5 @@ def ghibli_effect(image_path, save_path="ghibli_output.jpg"):
     print(f"Ghibli-style image saved as {save_path}")
 
 # Run
-ghibli_effect("C:/Users/sumasree/Downloads/WhatsApp Image 2025-09-27 at 7.00.54 PM.jpeg")
+ghibli_effect("C:/Users/sumasree/Downloads/download (1).jpg")
+
